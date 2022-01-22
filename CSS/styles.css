@@ -1,0 +1,133 @@
+body
+{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 26px;
+  background: #577BC1;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #344CB7;
+  text-decoration: none;
+}
+.bottom-container{
+  padding: 90px;
+  background: #A2D2FF;
+}
+
+.contact-description{
+  padding-bottom: 50px;
+}
+
+.contact-me
+{
+  margin-bottom: 50px;
+}
+
+.footer-link{
+  margin: 0 20px 0 20px;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 40px auto 0 auto;
+  color:#548CFF;
+}
+
+h2{
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  color: #548CFF;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Merriweather', serif;
+  color: #79B4B7;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: #A3E4DB;
+border-width: 10px;
+width: 20%;
+}
+
+
+.investing-img
+{
+  width: 30%;
+  float: right;
+  border-radius: 100%;
+  margin-right: 30px;
+}
+
+.my-skills{
+  margin-bottom: 0;
+}
+
+.profile
+{
+
+  padding: 10px;
+}
+
+.profile-picture
+{
+  width: 20%;
+  border-radius: 100%;
+}
+
+.skills-gif
+{
+  border-radius:100%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-container{
+  background-color: #D6E5FA;
+  margin:0;
+  position: relative;
+  padding-top: 80px;
+
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.web-developer
+{
+  margin-top: 0;
+}
